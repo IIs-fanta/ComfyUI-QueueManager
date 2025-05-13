@@ -1,7 +1,6 @@
 # ComfyUI-QueueManager
 
 支持暂停的ComfyUI 的任务队列管理插件，提供更直观的任务管理界面，支持暂停/恢复执行工作流，支持批量优先执行，支持有选择性的批量删除任务。
-![image](https://github.com/user-attachments/assets/355a7dda-16b5-4c3b-918a-bd48ebbf9caf)
 
 
 # ComfyUI的任务队列管理简直就是一坨！
@@ -14,6 +13,8 @@
 - 所以我们开发了新的ComfyUI-QueueManager解决这些问题，目前还在测试阶段，希望朋友们能积极反馈，也希望有大佬提供帮助：
 
 ## 功能特点
+![image](https://github.com/user-attachments/assets/1360d684-6c22-465d-90b4-a023546e58e5)
+
 
 - 实时显示任务队列状态
 - 支持暂停/恢复任务队列
